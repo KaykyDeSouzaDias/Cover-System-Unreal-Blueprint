@@ -62,3 +62,5 @@ Also, if you want to use this project for study, make money, etc., it's okay! Us
 ![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG15.JPG)
 
 ![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG16.JPG)
+
+# That's it! Thank you so much for staying here until the end, and if wanna see more about the project, you can download it!
