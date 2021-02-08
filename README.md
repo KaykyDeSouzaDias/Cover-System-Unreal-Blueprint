@@ -4,6 +4,12 @@ This project is a cover system mechanic made with Unreal Engine blueprints, with
 
 ![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverSystem_GameplayGIF.gif)
 
+# Reference
+
+My two biggest references were the AAA franchise Gears of War and The Division, which uses this system a lot.
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverSystemGIF_Example.gif)
+
 # Objective
 This functionality was made for my portfolio and to grow my programming skills.
 
@@ -33,12 +39,26 @@ Also, if you want to use this project for study, make money, etc., it's okay! Us
 
 2.0 - So, I made the cover logic inside the character and configured some buttons, to enter and exit for the cover action. And used the controller rotation yaw to improve the experience and to facilitate.
 
-![]()
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG07.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG08.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG09.JPG)
 
 3.0 - And then, I made a collision border to the character don't go away and stop.
 
-![]()
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG10.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG11.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG12.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG13.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG14.JPG)
 
 4.0 - For the finish, I opened the Anim Graph and started to pick up the values of when the character needs to stop, or when he exited or started the cover action, etc. In addition to configuring the animations.
 
-![]()
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG15.JPG)
+
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/IMG16.JPG)
