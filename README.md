@@ -1,6 +1,9 @@
 # The Project
 
 This project is a cover system mechanic made with Unreal Engine blueprints, with a character that take cover from an obstacle and walk during the cover action.
+# Download now the final result of the project.
+A playable form of the project for you to test it and enjoy it!
+Let's go: https://drive.google.com/file/d/1MycFNEJSO8Mw-rIacmXfbkQiKnU5AZaH/view?usp=sharing
 
 ![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverSystem_GameplayGIF.gif)
 
@@ -9,10 +12,6 @@ This project is a cover system mechanic made with Unreal Engine blueprints, with
 My two biggest references were the AAA franchise Gears of War and The Division, which uses this system a lot.
 
 ![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverSystemGIF_Example.gif)
-
-# Download now the final result of the project.
-A playable form of the project for you to test it and enjoy it!
-Let's go: https://drive.google.com/file/d/1MycFNEJSO8Mw-rIacmXfbkQiKnU5AZaH/view?usp=sharing
 
 # Objective
 This functionality was made for my portfolio and to grow my programming skills.
