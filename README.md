@@ -5,7 +5,7 @@ This project is a cover system mechanic made with Unreal Engine blueprints, with
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/1G_fxY61dhtxpeCmjtTvU52NNKeLhkmVD/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverSystem_GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Cover-System-Unreal-Blueprint/blob/main/Images%20and%20GIFs/CoverGIF.gif)
 
 # Reference
 
